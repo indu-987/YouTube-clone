@@ -1,0 +1,36 @@
+.main{
+    display:flex;
+    border: solid rgb(171, 151, 151) 1px;
+    height: 480px;
+    width: 800px;
+    margin: 0px 280px;
+    box-shadow:2px 2px 2px 4px rgba(154, 171, 176, 0.461);
+}
+.oness{
+padding: 90px  ;
+margin: 20px 30px;
+}
+.oness h1{
+  margin: 1px;
+}   
+
+.oness input{
+    margin: 15px;
+    border: none;
+    border-bottom: 1px solid rgb(207, 201, 201);
+    background: transparent;
+}
+
+button{
+    margin: 10px;
+    padding: 4px;
+    border-radius: 8px;
+    background-color: rgb(169, 34, 34);
+    
+}
+img{
+    height: 480px;
+    width: 300px;
+    top:20px;
+    margin-left:px;
+}

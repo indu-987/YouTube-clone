@@ -1,0 +1,45 @@
+.sidebarlink{
+    width: 250px;
+    padding: 0px 20px;
+    position: sticky;
+    top: 70px;
+    background-color: white;
+    height: 100px;
+
+    
+}
+.sidebarlink img{
+    width: 30px;
+    height: 20px;
+}
+
+
+.sidebarlink ul  { 
+   list-style: none;
+   padding-left: 0px;
+   
+
+}
+.sidebarlink li{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    padding: 10px 20px;
+    width: 140px;
+
+}
+.sidebarlink li:hover{
+    background-color: rgb(186, 182, 175);
+    border-radius: 10px;
+}
+
+
+.sidebarlink a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    
+   
+}
+ 

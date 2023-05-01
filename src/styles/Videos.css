@@ -1,0 +1,43 @@
+.videos{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    top: 70px;
+    
+
+
+}
+
+.videos_List{
+    width:340px;
+    padding: 20px 0px;
+}
+.videos_List img {
+    border-radius:10px ;
+    height: 200px;
+    width: 300px;
+
+}
+.videos_List img:hover{
+    transform: scale(1.1);
+     transition: 0.8s;
+
+}
+.videos_List p{
+    margin: 0px;
+}
+.info
+{
+    display: flex;
+    
+}
+.info a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: black;
+}
+.two a{
+    margin-top: 100px;
+    cursor: pointer;
+}

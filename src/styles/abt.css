@@ -1,0 +1,41 @@
+.ab{
+    position: absolute;
+    color: wheat;
+    height: 120px;
+    top: 320px;
+    width: 500px;
+    border-radius: 50px;
+    padding: 120px;
+    z-index: 1;
+    margin-left: 320px;
+    
+    background: rgb(7, 6, 84);
+    box-shadow: 10px 10px rgb(34, 34, 140);
+   
+    
+
+}
+.ab1{
+    position: absolute;
+    width: 300px;
+    border-radius: 100%;
+    box-shadow: 10px 10px rgb(176, 52, 52);
+   
+    height: 250px;
+    
+    z-index: 3;
+    
+    background: rgb(202, 33, 33);
+    color: white;
+    margin: 50px 550px;
+    box-shadow: 50px;
+    
+    
+    
+   
+    
+}
+.ab1 img{
+    height: 130px;
+    padding: 50px 80px;
+}

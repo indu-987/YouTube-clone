@@ -1,0 +1,42 @@
+.Categories{
+   
+    position: fixed;
+    top:100px;
+    background-color: white;
+    height: 100px;
+    width: 90%;
+    z-index: 1;
+   
+
+    
+}
+
+
+.categoires_list ul{
+    padding: 0px;
+    display: flex;
+    
+
+}
+.categoires_list li{
+    display: inline-flex;
+    margin: 0px 10px;
+   
+}
+
+.categoires_list li:hover{
+    background-color: rgb(200, 182, 214);
+    border-radius: 15px;
+
+}
+.categoires_list a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    padding: 8px 15px;
+
+
+    
+}

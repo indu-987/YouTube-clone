@@ -1,0 +1,59 @@
+.navbar {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   position: sticky;
+   background-color: white;
+   z-index: 2;
+   top: 0;
+   padding-bottom: 30px;
+}
+
+
+
+.logo img {
+    height: 70px;
+    width: 80px;
+    padding-left: 20px;
+}
+
+.profile img{
+
+    align-items: center;
+    margin-top: 20px;
+    height: 45px;
+    width: 40px;
+    padding-right: 10px;
+   
+}
+
+.searchbar {
+    position: sticky;
+    top: 0px;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+.searchbar input {
+    height: 30px;
+    width: 400px;
+    border-color: 1px solid rgb(172, 172, 172);
+    border-radius: 20px;
+    padding: 0px 20px;
+    font-size: 20px;
+
+}
+
+
+.searchbar input:focus{
+    outline: 5px solid rgb(147, 147, 236);
+    border: 1px ;
+}
+.profiles{
+    border: 1px solid black;
+    border-radius: 90%;
+    margin-left: 10px;
+  
+}
+
+
